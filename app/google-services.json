@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "630053137941",
+    "firebase_url": "https://fir-authentication-app-2d59f.firebaseio.com",
+    "project_id": "fir-authentication-app-2d59f",
+    "storage_bucket": "fir-authentication-app-2d59f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:630053137941:android:296e8a05da8d3e83",
+        "android_client_info": {
+          "package_name": "com.apoorvasingh2810.userauthenticationapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "630053137941-s1ti7b3le7q9a4r7peeauhrcc03ii665.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2EFYeXQPDgR_XB-RIKKc4ApgAZ5MGCss"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,3 +1,32 @@
 <resources>
     <string name="app_name">User Authentication App</string>
+
+
+    <string name="name">Name</string>
+    <string name="college_s_name">College\'s Name</string>
+    <string name="phonenumber">PhoneNumber</string>
+    <string name="emailaddress">EmailAddress</string>
+
+    <string-array name ="events_category_array">
+        <item>Dance</item>
+        <item>Design and Digital Art</item>
+        <item> Music</item>
+        <item>Technical</item>
+        <item> Management</item>
+
+    </string-array>
+
+    <string-array name ="event_array">
+        <item>Solodance</item>
+        <item>Choreonight</item>
+
+    </string-array>
+
+    <string name="email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="register">Register</string>
+
+    <string name="hint_name">Name</string>
+    <string name="hint_college">College\'s Name</string>
+    <string name="hint_phone">Phone number</string>
 </resources>
